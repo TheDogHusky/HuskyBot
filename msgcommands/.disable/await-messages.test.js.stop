@@ -1,0 +1,13 @@
+const Discord = require('discord.js')
+
+module.exports = {
+    run: (message, args, Bot) => {
+        message.channel.send("Merci d'entrer le mot de passe admin du bot !")
+        const filter = m => m.content.startsWith('KeeWorld88??');
+        message.channel.awaitMessages({filter, max: 1, time: 60000})
+            .then(() => {
+                message.channel.send('test')
+            })
+    },
+    name: "await-test"
+}
