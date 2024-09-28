@@ -1,13 +1,13 @@
 {
-    "name": "hebergement_bots",
+    "name": "huskybot",
     "version": "2.1.01",
-    "description": "Hébergement de Bots",
+    "description": "Bot Discord multifonctions",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [],
-    "author": "ClassyCrafter",
+    "author": "TheDogHusky",
     "license": "ISC",
     "dependencies": {
         "@classycrafter/super-logger": "^1.4.35",

@@ -29,3 +29,5 @@ Je donne le droit à quiconque de réutiliser ce code et d'en faire ce qu'il veu
 > **Note:** Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus d'informations.
 
 Etant donné que c'est une archive, et que le code est vieux, je ne peux garantir son intégrité et son bon fonctionnement. Vous pouvez toujours essayer de le faire fonctionner, mais je ne pourrais pas vous aider si vous rencontrez des problèmes. Désolé si le code n'est pas "clean", j'étais jeune et je débutais dans le développement à l'époque de son écriture.
+
+Les librairies installées sont sûrement vieilles et vulnérables, merci de les mettre à jour si vous voulez réutiliser ce code.
